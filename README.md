@@ -1,6 +1,5 @@
 ## Exploring mental health data
-
-This project implements various algorithms that detect depression based on survey data. The models classify whether an individual is depressed or not using features such as age, sleep duration, and family history.
+This project was crafted for L.EIC029 course - Artificial Intelligence. It focuses on implementing various algorithms that detect depression based on survey data. The models classify whether an individual is depressed or not using features such as age, sleep duration, and family history.
 
 - Python 3.10.12
 - Jupyter Notebook or JupyterLab
